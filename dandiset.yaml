@@ -34,7 +34,7 @@ assetsSummary:
   - OpticalChannel
 citation: 'Huang, Jui-Yen (2025) From Initial Formation to Developmental Refinement:
   GABAergic Inputs Shape Neuronal Subnetworks in the Primary Somatosensory Cortex
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001349/draft'
+  (Version 0.250604.1510) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001349/0.250604.1510'
 contributor:
 - affiliation: []
   email: juiyhuan@iu.edu
@@ -51,12 +51,13 @@ description: The calcium imaging data were obtained through two-photon awake ima
   modalities were synchronized using an LED signal at the start and end of the two-photon
   imaging experiment. Imaging data analysis was performed using Python or MATLAB,
   utilizing standard toolboxes, open-access toolboxes, and custom-written code.
-id: DANDI:001349/draft
+doi: 10.48324/dandi.001349/0.250604.1510
+id: DANDI:001349/0.250604.1510
 identifier: DANDI:001349
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001349/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001349/0.250604.1510/assets.yaml
 name: 'From Initial Formation to Developmental Refinement: GABAergic Inputs Shape
   Neuronal Subnetworks in the Primary Somatosensory Cortex'
 publishedBy:
@@ -74,5 +75,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-url: https://dandiarchive.org/dandiset/001349/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001349/0.250604.1510
+version: 0.250604.1510
